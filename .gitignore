@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+local.properties
+build/
+*/build/
+*.iml
+.DS_Store
+node_modules/
+
+android/
+src/
+public/
+index.html
+package.json
+tsconfig.json
+vite.config.ts
+metadata.json
